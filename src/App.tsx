@@ -241,7 +241,7 @@ export default function App() {
               </div>
               <div className="space-y-4">
                 <div className="bg-toy-yellow h-64 rounded-3xl overflow-hidden shadow-lg">
-                  <img src="https://images.unsplash.com/photo-1566576721346-d4a3b4eaad21?q=80&w=400" className="w-full h-full object-cover" />
+                  <img src="https://images.unsplash.com/photo-1596068587619-e4b11c7a3488?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?q=80&w=400" className="w-full h-full object-cover" />
                 </div>
                 <div className="bg-toy-peach h-48 rounded-3xl overflow-hidden shadow-lg">
                    <img src="https://images.unsplash.com/photo-1508847154043-be5407fcaa5a?q=80&w=400" className="w-full h-full object-cover" />
