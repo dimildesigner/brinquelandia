@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Fredoka", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-toy-bg: #FFFBEB;
+  --color-toy-orange: #FF6321;
+  --color-toy-orange-dark: #C2410C;
+  --color-toy-blue: #0EA5E9;
+  --color-toy-rose: #F43F5E;
+  --color-toy-slate: #1E293B;
+  --color-toy-slate-light: #64748B;
+  --color-toy-gold: #FEF3C7;
+  --color-toy-gold-text: #D97706;
+}
+
+@layer base {
+  body {
+    @apply bg-toy-bg text-toy-slate antialiased;
+  }
+}
+
+.bouncy-hover {
+  @apply transition-transform duration-300 hover:scale-105 active:scale-95;
+}
