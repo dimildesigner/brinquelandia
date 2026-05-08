@@ -233,7 +233,7 @@ export default function App() {
             <div className="grid grid-cols-2 gap-4">
               <div className="space-y-4 pt-12">
                 <div className="bg-toy-blue h-48 rounded-3xl overflow-hidden shadow-lg">
-                  <img src="https://images.unsplash.com/photo-1515488424392-4bd23b063864?q=80&w=400" className="w-full h-full object-cover" />
+                  <img src="https://images.unsplash.com/photo-1657624001311-237c2c0352a3?q=80&w=1046&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?q=80&w=400" className="w-full h-full object-cover" />
                 </div>
                 <div className="bg-toy-pink h-64 rounded-3xl overflow-hidden shadow-lg">
                   <img src="https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=400" className="w-full h-full object-cover" />
